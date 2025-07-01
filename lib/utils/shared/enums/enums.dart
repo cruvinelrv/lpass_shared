@@ -5,3 +5,4 @@ export 'enum_carrier_enum.dart';
 export 'enum_type_payment_enum.dart';
 export 'enum_type_address_enum.dart';
 export 'enum_type_contact_enum.dart';
+export 'enum_status_item_enum.dart';
