@@ -1,5 +1,6 @@
 name: liberpass_shared
 description: A new Flutter package project.
+publish_to: none
 version: 0.0.1
 homepage: https://example.com
 
@@ -10,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-lpass_web_dependencies:
+  lpass_web_dependencies:
     git:
       url: https://github.com/cruvinelrv/lpass_web_dependencies.git
       ref: develop
