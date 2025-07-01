@@ -10,6 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+lpass_web_dependencies:
+    git:
+      url: https://github.com/cruvinelrv/lpass_web_dependencies.git
+      ref: develop
 
 dev_dependencies:
   flutter_test:
