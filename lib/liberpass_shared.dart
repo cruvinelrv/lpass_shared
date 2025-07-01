@@ -1,0 +1,1 @@
+library liberpass_shared;

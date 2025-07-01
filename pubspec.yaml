@@ -1,7 +1,7 @@
-name: flut_micro_commons_shared
+name: liberpass_shared
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://example.com
 
 environment:
   sdk: '>=2.18.5 <3.0.0'
@@ -21,6 +21,8 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  uses-material-design: true
+  # The following line ensures that the Material Icons f
 
   # To add assets to your package, add an assets section, like this:
   # assets:
